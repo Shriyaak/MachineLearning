@@ -53,6 +53,8 @@ Data Used:  <br/>
 The dataset includes: <br/>
 Independent Variables (X1, X2, X3, X4): <br/>
 Dependent Variable (y): Profit: The profit of the company, which we aim to predict based on the independent variables. <br/>
+
+“Linear regression involves a forward pass to compute predictions, similar to forward propagation in neural networks, but it doesn’t include multiple layers or activation functions.”
 <br/>
 <br/>
 ## POLYNOMIAL LINEAR REGRESSION:
